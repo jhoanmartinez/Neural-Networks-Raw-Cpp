@@ -1,0 +1,1 @@
+g++ -o any_name.exe file_name.cpp
